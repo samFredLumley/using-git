@@ -2,7 +2,7 @@
 
 Notes from [here](https://www.youtube.com/watch?v=HVsySz-h9r4).
 
-[This]('https://nvie.com/posts/a-successful-git-branching-model/') workflow is good also.
+[This](https://nvie.com/posts/a-successful-git-branching-model/) workflow is good also.
 
 ## Info and config
 
